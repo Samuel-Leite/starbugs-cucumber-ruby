@@ -20,7 +20,6 @@ Cenario: Comprar um café
     Então ira visualizar a pagina de checkout com os detalhes do produto
         E o valor total da compra deve ser "R$ 19,99"
 
-@temp
 Cenario: Café indisponível
 
     Dado que estou na página principal da Starbugs
